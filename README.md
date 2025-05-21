@@ -1,6 +1,7 @@
 # Fix Button Demo
 
 **Repo:** [GitHub](https://github.com/stumbleforge/button-demo)
+
 **Screenshot:** [Updated responsive layout](./button-demo-screenshot.png)
 
 ---
